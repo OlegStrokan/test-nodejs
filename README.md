@@ -1,4 +1,4 @@
-# Test task for gymbeam
+# Test task
  
 This project was created to read data from a csv file and send each element
 to a public api, which sends a response whether the description of
